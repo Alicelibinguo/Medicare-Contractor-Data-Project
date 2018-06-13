@@ -5,14 +5,25 @@ The goal of project is to
 	explore data and discover insight.
 
 Table of Contents
+
 	Introduction
+	
 	Gather
+	
 	Access
+	
 		Visual Accessment
+		
 		Programmatical Accessment
+		
 	Wrangling Data
+	
 		Data Quality Issue
+		
 		Data Tidiness Issue
+		
 	Export data to Postgre Database
+	
 	Exploratory Data Analysis
+	
 	Conclusions
